@@ -2,7 +2,7 @@
 <img src="lockbox.png" width="50%"/>
 🗝️Password manager app with full encryption
 
-Lockbox use aes256 encryption to store passwords and texts fully lockaly.
+Lockbox use aes256 encryption to store passwords and texts fully locally.
 
 Make app:
 ```
